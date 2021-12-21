@@ -9,10 +9,11 @@ Finansal Bilgi Teknolojileri dersi için yaptığımız react native projesidir.
 ## Kullanılan API: 
 
 ## Raporlar
+- <a href="./docs/test_dokumani.pdf" >Test Dökümanı</a>
 
 Not: Uygulamamızda veritabanı olmadığından dolayı Veritabanı Diyagramı dökümanı tarafımızca hazırlanmamıştır. 
 
-A
+
 
 ## Uygulamamızın Google Play'deki genel yükleme analizi aşağıdaki gibidir.
 
