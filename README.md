@@ -30,3 +30,4 @@ Not: Uygulamamızda veritabanı olmadığından dolayı Veritabanı Diyagramı d
 ## Uygulamamızın Google Play'deki genel yükleme analizi aşağıdaki gibidir.
 
 ## Youtube Canlı Demo
+- [![Resme Tıklayın]()](https://youtu.be/_Fulx7wR3Ro)
