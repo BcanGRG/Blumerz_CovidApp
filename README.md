@@ -27,8 +27,8 @@ https://api.covid19api.com
 Not: Uygulamamızda veritabanı olmadığından dolayı Veritabanı Diyagramı dökümanı tarafımızca hazırlanmamıştır. 
 
 
-
 ## Uygulamamızın Google Play'deki genel yükleme analizi aşağıdaki gibidir.
+<img src="./docs/unknown.png" />
 
 ## Youtube Canlı Demo
 - [![Resme Tıklayın](https://i.ytimg.com/vi/_Fulx7wR3Ro/hqdefault.jpg)](https://youtu.be/_Fulx7wR3Ro)
