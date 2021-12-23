@@ -1,12 +1,21 @@
 # Dünya Takip App
 
-Finansal Bilgi Teknolojileri dersi için yaptığımız react native projesidir.
+Finansal Bilgi Teknolojileri dersi için yaptığımız Flutter projesidir.
 
 ## Hazırlayanlar:
 
+- Burak Can Görgülü
+- Ersin Karakulak
+- Merve Yılmaz
+- Muratcan Yusufoğlu
+
 ## Proje Tanımı
 
+Projemizin amacı dünyayı etkisi altına alan pandemi sürecinde tüm dünya ülkelerinin günlük olarak toplam vaka, toplam ölüm  sayılarını, her bir ülkenin her gün yüzleştiği vaka, ölüm toplam istatiki verilerini tek bir uygulamada toplamaktır. Bu sayede tüm dünya vatandaşlarının pandeminin genel seyri ve ülkeler özelinde güncel seyrinden haberdar olarak bilinçlenmesini ve bilgi sahibi olmasını hedeflemekteyiz.
+
 ## Kullanılan API: 
+
+https://api.covid19api.com
 
 ## Raporlar
 - <a href="./docs/test_dokumani.pdf" >Test Dökümanı</a>
