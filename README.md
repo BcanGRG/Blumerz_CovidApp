@@ -1,4 +1,4 @@
-# Dünya Takip App
+# Blumerz App
 
 Finansal Bilgi Teknolojileri dersi için yaptığımız Flutter projesidir.
 
@@ -7,7 +7,8 @@ Finansal Bilgi Teknolojileri dersi için yaptığımız Flutter projesidir.
 - Burak Can Görgülü
 - Ersin Karakulak
 - Merve Yılmaz
-- Muratcan Yusufoğlu
+- Tuğba Nur Bağcı
+- Halil Coşgun
 
 ## Proje Tanımı
 
@@ -30,4 +31,4 @@ Not: Uygulamamızda veritabanı olmadığından dolayı Veritabanı Diyagramı d
 ## Uygulamamızın Google Play'deki genel yükleme analizi aşağıdaki gibidir.
 
 ## Youtube Canlı Demo
-- [![Resme Tıklayın]()](https://youtu.be/_Fulx7wR3Ro)
+- [![Resme Tıklayın](https://i.ytimg.com/vi/_Fulx7wR3Ro/hqdefault.jpg)](https://youtu.be/_Fulx7wR3Ro)
